@@ -2,7 +2,7 @@ package edu.tallerweb.pptls;
 
 /**
  * Las diferentes Formas que existen en el juego
- */
+ *****************/
 public enum Forma {
 
 	PIEDRA(0), SPOCK(1), PAPEL(2), LAGARTO(3), TIJERA(4);
